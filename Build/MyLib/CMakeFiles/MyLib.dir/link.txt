@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLib.a  CMakeFiles/MyLib.dir/src/Device.cpp.o CMakeFiles/MyLib.dir/src/DeviceBuilder.cpp.o CMakeFiles/MyLib.dir/src/DeviceBuilderBase.cpp.o CMakeFiles/MyLib.dir/src/DeviceBuilderExtensions.cpp.o CMakeFiles/MyLib.dir/src/Instance.cpp.o CMakeFiles/MyLib.dir/src/InstanceBuilder.cpp.o CMakeFiles/MyLib.dir/src/InstanceBuilderBase.cpp.o CMakeFiles/MyLib.dir/src/InstanceBuilderDefault.cpp.o CMakeFiles/MyLib.dir/src/Vector.cpp.o
+/usr/bin/ranlib libMyLib.a

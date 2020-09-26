@@ -3,6 +3,8 @@
 #include <iostream>
 #include "Device/Device.hpp"
 
+using namespace std;
+
 
 
 DeviceBuilder::DeviceBuilder(const VkInstance& instance) : _deviceCount(0), DeviceBuilderBase(_deviceCount)
@@ -16,3 +18,5 @@ DeviceBuilder::~DeviceBuilder()
 {
     delete[] DeviceBuilderBase::_devices;
 }
+
+

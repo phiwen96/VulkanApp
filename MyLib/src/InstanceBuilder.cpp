@@ -18,10 +18,10 @@ InstanceBuilder::InstanceBuilder() :
     createInfo{
     .sType = VK_STRUCTURE_TYPE_INSTANCE_CREATE_INFO,
     .pApplicationInfo = &appInfo,
-    .enabledExtensionCount = 0,
-    .ppEnabledExtensionNames = nullptr,
     .enabledLayerCount = 0,
-    .ppEnabledLayerNames = nullptr
+    .ppEnabledLayerNames = nullptr,
+    .enabledExtensionCount = 0,
+    .ppEnabledExtensionNames = nullptr
 }, 
     InstanceBuilderBase(appInfo, createInfo)
 {

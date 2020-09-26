@@ -56,7 +56,7 @@ int main()
     printVec();
 
     vec -= 3;
-    []template<class T>{}();
+    // []template<class T>{}();
     [&](int elem){
         for (int i = 0; i < vec._count; ++i)
         {
@@ -81,19 +81,12 @@ int main()
     
     cout << "return 0" << endl;
     return 0;
-    int* numbers = new int[10]{[0 ... 9] = 0};
+    // int* numbers = new int[10]{[0 ... 9] = 0};
     
-    const char* str = "hej";
-
-    T* ts = new T[3]{[0 ... 2] = str};
+   
    
     
-    for (T* i = ts; i < ts + 3; i++)
-    {
-        cout << (ts + 3) - i << endl;
-        cout << *ts << endl;
-    }
-    
+   
     
     
 

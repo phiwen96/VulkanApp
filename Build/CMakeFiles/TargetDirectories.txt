@@ -1,0 +1,6 @@
+/home/philip/Documents/c++/VulkanApp-master/Build/CMakeFiles/rebuild_cache.dir
+/home/philip/Documents/c++/VulkanApp-master/Build/CMakeFiles/edit_cache.dir
+/home/philip/Documents/c++/VulkanApp-master/Build/CMakeFiles/App.dir
+/home/philip/Documents/c++/VulkanApp-master/Build/MyLib/CMakeFiles/rebuild_cache.dir
+/home/philip/Documents/c++/VulkanApp-master/Build/MyLib/CMakeFiles/edit_cache.dir
+/home/philip/Documents/c++/VulkanApp-master/Build/MyLib/CMakeFiles/MyLib.dir

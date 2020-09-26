@@ -3,6 +3,7 @@
 #include <vulkan/vulkan_core.h>
 #include <tuple>
 #include <iostream>
+#include <cstring>
 using namespace std;
 
 DeviceBuilderExtensions::DeviceBuilderExtensions(DeviceBuilderBase&& other) : DeviceBuilderBase((DeviceBuilderBase&&)other)

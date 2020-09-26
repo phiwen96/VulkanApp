@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/App.dir/src/Hund.cpp.o CMakeFiles/App.dir/src/main.cpp.o  -o App  MyLib/libMyLib.a /usr/lib/x86_64-linux-gnu/libvulkan.so 
