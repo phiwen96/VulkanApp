@@ -1,0 +1,5 @@
+class Hund
+{
+public:
+    Hund();
+};
